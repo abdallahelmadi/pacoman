@@ -13,7 +13,7 @@
 #ifndef GLOBAL_H
 # define GLOBAL_H
 
-# include <mlx.h>
+# include "./srcs/mlx/mlx.h"
 # include <math.h>
 # include <fcntl.h>
 # include <stdio.h>

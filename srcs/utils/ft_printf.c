@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../global.h"
+#include "../../global.h"
 
 static void	ft_putstr(const char *str)
 {

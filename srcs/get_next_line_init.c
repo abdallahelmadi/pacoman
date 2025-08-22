@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "global.h"
+#include "../global.h"
 
 char	*get_next_line_init(int fd)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "global.h"
+#include "../global.h"
 
 static void	finish_map(t_map *map)
 {

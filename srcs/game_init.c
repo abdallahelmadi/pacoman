@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "global.h"
+#include "../global.h"
 
 static void	*d(void *mlx, char *str, int *x, int *y)
 {

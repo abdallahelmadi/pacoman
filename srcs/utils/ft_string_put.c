@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../global.h"
+#include "../../global.h"
 
 static char	*string_itao_next(int nbr, int len, char *out)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../global.h"
+#include "../../global.h"
 
 t_map	*ft_new_node(int x, int y, char *type)
 {

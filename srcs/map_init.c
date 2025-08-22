@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "global.h"
+#include "../global.h"
 
 static char	*map_validate_next_next(t_game *game)
 {

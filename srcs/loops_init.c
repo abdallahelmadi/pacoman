@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "global.h"
+#include "../global.h"
 
 static void	door(t_game *game)
 {

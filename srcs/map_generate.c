@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "global.h"
+#include "../global.h"
 
 static	void	map_generate_next(int *x, int *y, char buffer, t_game *game)
 {

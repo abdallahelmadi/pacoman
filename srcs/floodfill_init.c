@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "global.h"
+#include "../global.h"
 
 static void	flood_fill_next_next(t_map *curr, int *coins_found,
 	int *exit_found, int *res)
