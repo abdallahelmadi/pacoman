@@ -57,5 +57,5 @@ Choose the map you want, or create yours in /map folder or any other path.
 ---
 
 <video autoplay loop muted playsinline width="600">
-  <source src="video.webm" type="video/webm">
+  <source src="./video.webm" type="video/webm">
 </video>
