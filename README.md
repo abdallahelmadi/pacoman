@@ -27,11 +27,11 @@ It must respect the following rules:
 ---
 
 ## ✅ Valid Map Example
-11111111111
-1000000C001
-1P1111111E1
-10C0X000C01
-11111111111
+11111111111<br/>
+1000000C001<br/>
+1P1111111E1<br/>
+10C0X000C01<br/>
+11111111111<br/>
 
 ## 🎮 Controls
 - **W / ↑** → Move up
@@ -42,13 +42,13 @@ It must respect the following rules:
 
 ## 🚀 How to Run
 
-# Fisrt you need to install dependencies by run this file:
+#### Fisrt you need to install dependencies by run this file:
 ```
-chmod 777 installdependencies; ./installdependencies
+./installdependencies
 ```
-May take some seconds.
+May take some seconds, sudo will ask you for sudopassword
 
-# Example to strat play:
+#### Example to strat play:
 ```
 ./pacoman maps/0.ber
 ```
@@ -56,4 +56,6 @@ Choose the map you want, or create yours in /map folder or any other path.
 
 ---
 
-playvideo
+<video autoplay loop muted playsinline width="600">
+  <source src="video.webm" type="video/webm">
+</video>

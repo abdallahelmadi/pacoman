@@ -6,7 +6,7 @@
 /*   By: abdael-m <abdael-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/08 08:36:33 by abdael-m          #+#    #+#             */
-/*   Updated: 2025/01/17 09:31:32 by abdael-m         ###   ########.fr       */
+/*   Updated: 2025/08/24 10:40:12 by abdael-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,8 +43,6 @@ static void	control_move_next_next(char to, t_game *game)
 	}
 	game->playerscore += 1;
 	ft_string_put(game);
-	ft_printf("Score: %d (collectibles: %d/%d)\n",
-		game->playerscore, game->eatedcoins, game->totalcoins);
 }
 
 static void	control_move_next(char res, char to, t_game *game)
