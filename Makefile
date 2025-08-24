@@ -2,7 +2,7 @@ CC = cc
 RM = rm -rf
 NAME = pacoman
 CFLAGS = -Wall -Wextra -Werror
-CLINKINGFLAGS = -L./srcs/mlx -lmlx -lX11 -lXext
+CLINKINGFLAGS = -L./srcs/_mlx -lmlx -lX11 -lXext
 SOLONGFILEOBJECTS = ./srcs/utils/ft_last_node.o ./srcs/utils/ft_new_node.o \
 					./srcs/utils/ft_printf.o ./srcs/utils/ft_random.o ./srcs/utils/ft_string_put.o \
 					./srcs/utils/ft_strjoin.o ./srcs/utils/ft_strlen.o ./srcs/floodfill_init.o \

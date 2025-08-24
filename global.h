@@ -6,14 +6,14 @@
 /*   By: abdael-m <abdael-m@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/07 13:53:50 by abdael-m          #+#    #+#             */
-/*   Updated: 2025/01/18 10:47:39 by abdael-m         ###   ########.fr       */
+/*   Updated: 2025/08/24 11:22:26 by abdael-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GLOBAL_H
 # define GLOBAL_H
 
-# include "./srcs/mlx/mlx.h"
+# include "./srcs/_mlx/mlx.h"
 # include <math.h>
 # include <fcntl.h>
 # include <stdio.h>
